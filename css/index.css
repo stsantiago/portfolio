@@ -240,6 +240,7 @@ a {
 
   .contact {
     margin-bottom: 20px;
+    padding: 0 2em;
   }
 }
 
@@ -254,9 +255,6 @@ a {
   .experience,
   .about {
     padding: 2em;
-  }
-  .contact {
-    padding: 0 2em;
   }
 }
 
